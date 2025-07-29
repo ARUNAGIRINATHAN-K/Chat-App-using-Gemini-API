@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyCC2u927cc1cZR5GCVFdzYg0ap3_jsK_8Q"; // Replace with your Gemini API key
+const API_KEY = ""; // Replace with your Gemini API key
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent";
 
 const chatsContainer = document.querySelector(".chats-container");
