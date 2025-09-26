@@ -107,9 +107,9 @@ A Java-based application that extracts text from PDF resumes, parses skills usin
 | PDF Parsing | Apache PDFBox |
 | NLP | OpenNLP / Stanford CoreNLP |
 | Database | MySQL / SQLite |
-| UI (Optional) | JavaFX / Swing |
-| API (Optional) | Spring Boot |
-| Charts (Optional) | JFreeChart |
+| UI  | JavaFX / Swing |
+| API  | Spring Boot |
+| Charts | JFreeChart |
 
 ---
 
